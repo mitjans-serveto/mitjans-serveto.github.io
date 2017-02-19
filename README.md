@@ -1,1 +1,0 @@
-# mitjans-serveto.github.io
