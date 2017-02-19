@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 ---
 
 {% comment %}
@@ -9,4 +9,4 @@ title: About
 {% endcomment %}
 {% include about-short.html author=site.author %}
 
-[write something about self]
+Maria Mitjans Serveto
