@@ -15,7 +15,7 @@ La Agencia Estatal de Seguridad Aérea (AESA) ha elaborado una serie de folletos
 
 * Se permite el **uso sobre zonas no habitadas y espacios cerrados**, puesto que los recintos completamente cerrados no están sujetos a la jurisdicción de AESA, al no formar parte del espacio aéreo. 
 
-* Una aeronave de **hasta 25 kg puede gravar exteriores, pero debe hacerse de día y en condiciones meteorológicas visuales, fuera de aglomeraciones**, de edificios en ciudades, pueblos o lugares habitados o de reuniones de personas al aire libre, en espacio aéreo no controlado, dentro del alcance visual del piloto y a una distancia de éste no mayor de 500 metros y a una altura no mayor de 400 pies (120m).
+* Una aeronave de **hasta 25 kg puede grabar exteriores, pero debe hacerse de día y en condiciones meteorológicas visuales, fuera de aglomeraciones**, de edificios en ciudades, pueblos o lugares habitados o de reuniones de personas al aire libre, en espacio aéreo no controlado, dentro del alcance visual del piloto y a una distancia de éste no mayor de 500 metros y a una altura no mayor de 400 pies (120m).
 
 * Una aeronave que exceda los 25 kg y no sea superior a 150 kg, podrá operar según las condiciones y limitaciones establecidas en su certificado de aeronavegabilidad emitido por la AESA y deberá estar inscrita en el registro de matrícula de aeronaves. 
 
