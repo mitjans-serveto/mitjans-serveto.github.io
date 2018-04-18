@@ -20,6 +20,6 @@ El objetivo por lo tanto es que la autoridad esté informada de estos fallos té
 
 Si además, la violación de seguridad puede poner en alto riesgo los derechos y libertades de las personas afectadas, se deberá comunicar este hecho a los interesados. Se deberá concretar qué se entiende por alto riesgo en este supuesto, para que las empresas sepan cuando deben comunicar este hecho, por ejemplo en el caso de robo de usuarios y contraseñas, datos bancarios, etc.
 
-Esta obligación sigue en la línea del nuevo reglamento de **reforzar la responsabilidad activa y por defecto de las empresas y administraciones públicas **a fin de hacer más trasparente y seguro el tratamiento de datos personales y devolver el control de los mismos a los ciudadanos.   
+Esta obligación sigue en la línea del nuevo reglamento de **reforzar la responsabilidad activa y por defecto de las empresas y administraciones públicas** a fin de hacer más trasparente y seguro el tratamiento de datos personales y devolver el control de los mismos a los ciudadanos.   
 
 Por lo tanto, aumenta el deber de diligencia del responsable de tratamiento que de no cumplir con su obligación o cumplirla defectuosamente puede ser sancionado. La misma obligación recae sobre los datos que trate el encargado del tratamiento, que deberá notificar al responsable de tratamiento de las violaciones de seguridad que le hayan afectado y en los que se hayan podido ver comprometidos los datos que trataba por cuenta del responsable. 
