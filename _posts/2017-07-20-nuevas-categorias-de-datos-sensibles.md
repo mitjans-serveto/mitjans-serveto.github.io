@@ -8,7 +8,7 @@ description: >
 
 # **NOVEDADES DEL NUEVO REGLAMENTO EUROPEO DE PROTECCIÓN DE DATOS: NUEVAS CATEGORIAS DE DATOS SENSIBLES**
 
-El nuevo [Reglamento Europeo de Protección de Datos](http://www.boe.es/doue/2016/119/L00001-00088.pdf) añade a la clasificación que teníamos hasta la actualidad de datos sensibles los _**datos biométricos y los datos genéticos.**_
+El nuevo [Reglamento Europeo de Protección de Datos](http://www.boe.es/doue/2016/119/L00001-00088.pdf){:target="_blank"} añade a la clasificación que teníamos hasta la actualidad de datos sensibles los _**datos biométricos y los datos genéticos.**_
 
 El reglamento define los datos biométricos como aquellos datos personales obtenidos a partir de **un tratamiento técnico específico**, relativos a las características físicas, fisiológicas o conductuales de una persona física que **permitan o confirmen la identificación única de dicha persona**, como imágenes faciales o datos dactiloscópicos.
 
