@@ -108,25 +108,3 @@ compress_html:
 
 sass:
   style:             compressed
-
-#Staticman
-   comments:
- provider: "staticman"
-   staticman:
- name                   : "Mitjans Serveto blog"
- allowedFields          : ['name', 'email', 'url', 'message']
- branch                 : "master"
- commitMessage          : "Nuevo comentario."
- filename               : comment-{@timestamp}
- format                 : "yml"
- moderation             : false
- path                   : "_data/comments/{options.slug}"
- requiredFields         : ['name', 'email', 'message']
- transforms:
-   email                : "md5"
- generatedFields:
-   date:
-type               : "date"
-options:
-  format           : "iso8601"
-comment            : true
