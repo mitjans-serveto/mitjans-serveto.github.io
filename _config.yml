@@ -24,7 +24,7 @@ description:         >
   Blog sobre derecho y nuevas tecnologías
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        [protecciondedatos,derechotecnologico,marcas]
+sidebar_tags:        [protecciondedatos,derechotecnologico,marcas,varios]
 
 # Fallback image and color if not overwritten for tag or post
 image:               /public/img/principal.jpg
