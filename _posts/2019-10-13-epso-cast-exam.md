@@ -6,7 +6,7 @@ tags: [varios]
 
 
 
-![](../public/img/varios/2019-10-13 14-29-58-1.png)
+![](/public/img/varios/2019-10-13 14-29-58-1.png)
 
 #  **EPSO CAST EXAM STEP BY STEP: How to get invited and how to succeed in the exam**
 
@@ -26,7 +26,7 @@ You will find the job opportunities listed in [the EPSO job page](https://epso.e
 
 You then need to choose the EPSO CAST profile that is more according to your background and experience (you can fill more than one profile).  
 
-![img](../public/img/varios/epso-profiles.png) 
+![img](/public/img/varios/epso-profiles.png) 
 
 You basically have all these different profiles. You see that the second column expresses FGI, FGII, FGIII & FGIV. That is because contract Agents are divided into four categories that correspond to different types of tasks and salaries.  
 
@@ -70,7 +70,7 @@ There are plenty of ways to get prepared for the exam. You can use eutraining.eu
 
 In the table below you find the scores you will need to get if you want to pass. **That is not a competition like AD5, thus, you only need a pass mark to get invited to the interview, Don’t worry if you don’t get a high mark, your goal here is to get the pass mark.**  
 
-![img](../public/img/varios/epso-passmark.png) 
+![img](/public/img/varios/epso-passmark.png) 
 
  
 
