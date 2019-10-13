@@ -24,6 +24,13 @@ derechotecnologico:
  description: >
   Derecho tecnológico
 
+varios:
+ name: Varios
+ image: /public/img/marcas.jpg
+ color: '#536DFE'
+ description: >
+  Varios
+
 marcas:
  name: Marcas
  image: /public/img/marcas.jpg
@@ -31,9 +38,4 @@ marcas:
  description: >
   Marcas
 
-varios:
- name: Varios
- image: /public/img/marcas.jpg
- color: '#536DFE'
- description: >
-  Varios
+
