@@ -90,6 +90,9 @@ author:
 # Remove to disable Google Anaylics
 google_analytics_id: 'UA-92253463-1'
 
+# Google Adsense
+google_adsense_id: 'ca-pub-2665320130194268'
+
 # Setting a disqus subdomain will enable the comment section
 # disqus:            <username>
 
