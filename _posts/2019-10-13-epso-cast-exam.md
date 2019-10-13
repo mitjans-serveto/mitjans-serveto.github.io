@@ -20,9 +20,9 @@ Sitting the EPSO CAST exam is one of the ways to get a job in the EU institution
 
 
 
-The first thing you need to do if you want to have the chance to get invited to the test is to fill the corresponding form in https://epso.europa.eu/. 
+The first thing you need to do if you want to have the chance to get invited to the test is to fill the corresponding form in [https://epso.europa.eu/]
 
-You will find the job opportunities listed here: https://epso.europa.eu/job-opportunities_en
+You will find the job opportunities listed here: [https://epso.europa.eu/job-opportunities_en]
 
 You then need to choose the EPSO CAST profile that is more according to your background and experience (you can fill more than one profile).  
 
