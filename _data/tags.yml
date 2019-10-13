@@ -30,3 +30,10 @@ marcas:
  color: '#536DFE'
  description: >
   Marcas
+
+varios:
+ name: Varios
+ image: /public/img/marcas.jpg
+ color: '#536DFE'
+ description: >
+  Varios
