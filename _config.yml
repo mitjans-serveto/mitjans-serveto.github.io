@@ -7,11 +7,11 @@ gems:
 permalink:           pretty
 
 # Setup
-url:                 www.google.com
+url:                 http://mitjans-serveto.github.io/
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             ''
+baseurl:             'http://mitjans-serveto.github.io/'
 
 title:               De iure & tech
 
