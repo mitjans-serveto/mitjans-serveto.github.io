@@ -9,7 +9,7 @@ description: >
 
 El pasado 20 de febrero de 2020, en el marco de la **VII edición de los Premios a la Protección de Datos**, la **Agencia Vasca de Protección de Datos** me otorgó el [premio de investigación](https://www.avpd.euskadi.eus/nota_prensa/2020/mar-espana-marti-la-diputacion-foral-de-gipuzkoa-y-maria-mitjans-premiadas-por-la-avpd/s04-5273/es/) por el trabajo titulado *Ejerciendo los derechos del interesado en el RGPD: investigación empírica sobre el derecho a la explicación de los sistemas de recomendación de noticias.*
 
-![Entrega de premio!](/public/img/protecciondedatos/entregadepremio.jpg)
+![Entrega de premio!](/public/img/protecciondedatos/entregapremio.jpg)
 
 Este trabajo fue elaborado en el marco del Máster de Propiedad Intelectual y Tecnologías de la Información y la Comunicación cursado en la KU Leuven (Bélgica).
 
@@ -29,7 +29,7 @@ Del análisis de los resultados estos son los problemas más relevantes detectad
 
 También detectamos prácticas extendidas de proveedores que pedían el consentimiento no de una manera específica, ya que se utilizaba la misma casilla para aceptar los términos y condiciones, la política de privacidad y la política de cookies a la vez, con lo que no se cumplen los requisitos de consentimiento establecidos en el RGPD y desarrollados más adelante en las Directrices sobre el consentimiento del Grupo de Trabajo del Artículo 29.
 
-**2. Al evaluar las políticas de privacidad: **
+**2. Al evaluar las políticas de privacidad:**
 
 **2.1. Evaluación sobre los parámetros formales**
 
